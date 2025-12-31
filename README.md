@@ -6,7 +6,7 @@ Started on December 28th, 2025.
 YouTube series on this: https://www.youtube.com/watch?v=myuufotpIJA&list=PL_FbJyFLAmlheJ3ynaazIWOjFVVt1we1r
 
 # Roadmap
-December 28th, 2025 - project started, first video released
+December 27th, 2025 - project started, first video released
 
 # Support
 Supports from Windows 95 up to Windows 11 (Windows 95, Windows 98, Windows NT 4.1+, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)
