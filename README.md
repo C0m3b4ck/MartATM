@@ -22,8 +22,7 @@ December 27th, 2025 - project started, first video released
 * Past, present and future compatibility with Windows, working on Windows CE
 
 # Why?
-* I wanted to learn and practice legacy frontend and backend development in Visual Basic 6 and COBOL, also learning about how ATMs and Windows CE 6 operate.
-* Visual Basic has greater compatibility - it supports from Windows 95 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11), including Windows Server NT 4.0, Widows Server 2000, Widows Server 2003, Widows Server 2008, Widows Small Business Server 2008, Widows Server 2012, Widows Server 2012 R2, Widows Server 2016, Widows Server 2019, Widows Server 2022, Widows Server 2025, Windows CE 1.0, Windows CE 2.0, Windows CE 2.1, Windows CE 2.11, Windows CE 2.12, Windows CE 3.0, Windows CE .NET 4.1, Windows CE .NET 4.2 
+* I wanted to learn and practice legacy frontend and backend development for Microsoft embedded systems
 
 # Screenshots
 Screenshots will appear once I do tests.
