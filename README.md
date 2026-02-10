@@ -1,6 +1,6 @@
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/MartATM/total)
 # MartATM
-A legacy-compatible ATM. Frontend in Visual Basic 6, backend in COBOL.
+A legacy-compatible ATM. Frontend in Visual Basic 6.
 Started on December 28th, 2025.
 
 YouTube series on this: https://www.youtube.com/watch?v=myuufotpIJA&list=PL_FbJyFLAmlheJ3ynaazIWOjFVVt1we1r
