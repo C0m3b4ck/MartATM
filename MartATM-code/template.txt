@@ -1,0 +1,29 @@
+﻿Private WithEvents Voice As SpeechLib.SpVoice
+
+Private Sub Form_Load()
+Me.Hide
+End Sub
+
+Public Sub Unload()
+Me.Hide
+Set Voice = Nothing
+Me.Unload
+End Sub
+
+Public Sub Speak(text As String)
+Voice.Speak text, 1 '1 = SVSFlagsAsync for non-blocking
+End Sub
+
+Public Sub Init()
+    Me.Show
+    Set Voice = New SpeechLib.SpVoice
+    Voice.Volume = 100
+    Voice.Rate = 0
+
+    'resize to global resolution
+    Me.Width = globalWidth
+    Me.Height = globalHeight
+    
+    'greet the user
+    Speak ("Welcome to Mart Automatic Transaction Machine!")
+End Sub
